@@ -10,3 +10,5 @@ Features disponíveis nesse repositório:
 - Conexão com banco de dados NoSQL (Mongodb & Mongoose).
 - Cadastro, atualização, exclusão e listagem de usuários.
 - Criptografia utilizando a lib Bcrypt.
+- Token JWT.
+- Autenticação de rotas utilizando JWT.

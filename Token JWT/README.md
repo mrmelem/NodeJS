@@ -1,7 +1,7 @@
 # Token JWT
 
 ## Descrição
-API com rotas simples.
+API com autenticação de rotas utlizando a library Json WEB token.
 - Dependências:
     - Cors.
     - Express.
