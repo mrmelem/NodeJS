@@ -3,7 +3,6 @@
 ## Descrição
 API com o padrão REST para 5 funções de cadastro.
 ##### obs: Todos os itens com **"?"** são opicionais.
-#
 
 ## Create
 - Cadastro de  novos usuários.
@@ -16,7 +15,6 @@ API com o padrão REST para 5 funções de cadastro.
   - [ ] email : String
   - [ ] password : String
 
-#
 ## Read
 - Mostrar usuário.
   
@@ -26,7 +24,6 @@ API com o padrão REST para 5 funções de cadastro.
 > GET /user/:ID
   - Retorna um usuário pelo ID
   
-#
 ## Update
 - Atualizar um usuário.
 
@@ -37,7 +34,6 @@ API com o padrão REST para 5 funções de cadastro.
   - [ ] ?email : String
   - [ ] ?password : String
 
-#
 ## Delete
 - Deleta um usuário
 
