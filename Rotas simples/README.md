@@ -5,7 +5,6 @@ API com rotas simples.
 - Dependências:
     - Cors.
     - Express.
-#
 
 ## Rota Padrão
 - Retorna uma rota padrão
