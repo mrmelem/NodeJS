@@ -15,7 +15,7 @@ API com rotas públicas e privadas.
 #
 
 ## Rota privada
-- Retorna uma rota que requer autenticação. alterando o middleware [authRoute]('https://github.com/mrmelem/nodejs/blob/master/Rotas%20Públicas%20e%20Privadas/src/middlewares/authRoute.js'), é possível alterar a lógica de programação conforme a regra de negócio. Por padrão, a rota está difinida como **true**, se definida como **false**, a rota não exibirá o conteúdo, apenas retornará o status 403.
+- Retorna uma rota que requer autenticação. alterando o middleware [authRoute]('src/middlewares/authRoute.js'), é possível alterar a lógica de programação conforme a regra de negócio. Por padrão, a rota está difinida como **true**, se definida como **false**, a rota não exibirá o conteúdo, apenas retornará o status 403.
   
 > GET /private
 
