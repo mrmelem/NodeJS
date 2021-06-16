@@ -1,0 +1,21 @@
+{
+  "name": "crud-usuarios",
+  "version": "1.0.0",
+  "description": "## Descrição API com o padrão REST para 5 funções de cadastro. ##### obs: Todos os itens com **\"?\"** são opicionais.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

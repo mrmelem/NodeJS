@@ -20,6 +20,7 @@ Bancos de dados:
 Features disponíveis:
 
 - [X] Iniciação de um servidor com express.
+- [X] Variáveis de ambiente.
 - [X] CORS para controlar requisições entre navegadores.
 - [X] Rotas.
 - [X] Rotas públicas e privadas.
@@ -32,4 +33,3 @@ Features disponíveis:
 - [X] Enviando para uma CDN (Amazon s3).
 - [ ] Crud Produtos.
 - [ ] Pesquisa avançada de produtos.
-- [X] Variáveis de ambiente.
