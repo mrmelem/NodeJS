@@ -7,12 +7,12 @@ Bibliotecas:
     - Cors
     - Express
     - Json Web Token
-    - Multer
     - Mongoose
     - Morgan
+    - Multer
 - Desenvolvimento:
-    - Nodemon
     - Dotenv
+    - Nodemon
 
 Bancos de dados:
 - Mongodb (NoSQL)
