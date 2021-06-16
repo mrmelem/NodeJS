@@ -2,13 +2,17 @@
 Todas as minha aplicações desenvolvidas em Javascript (Node JS)
 
 Bibliotecas:
-- Bcrypt
-- Cors
-- Express
-- Json Web Token
-- Multer
-- Mongoose
-- Morgan
+- Produção:
+    - Bcrypt
+    - Cors
+    - Express
+    - Json Web Token
+    - Multer
+    - Mongoose
+    - Morgan
+- Desenvolvimento:
+    - Nodemon
+    - Dotenv
 
 Bancos de dados:
 - Mongodb (NoSQL)
@@ -25,6 +29,7 @@ Features disponíveis:
 - [X] Token JWT.
 - [X] Autenticação de rotas utilizando JWT.
 - [X] Upload de imagens.
-- [ ] Enviando para uma CDN (Amazon s3).
+- [X] Enviando para uma CDN (Amazon s3).
 - [ ] Crud Produtos.
 - [ ] Pesquisa avançada de produtos.
+- [X] Variáveis de ambiente.
