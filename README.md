@@ -31,5 +31,5 @@ Features disponíveis:
 - [X] Autenticação de rotas utilizando JWT.
 - [X] Upload de imagens.
 - [X] Enviando para uma CDN (Amazon s3).
-- [ ] Crud Produtos.
+- [X] Crud Produtos.
 - [ ] Pesquisa avançada de produtos.
